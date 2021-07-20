@@ -1,4 +1,6 @@
-# SQL Indexing
+# SQL Indexing and Querying
+
+Sql Indexing allows us to programmatically do fast querying against values of certainf fields and properties of different Content Items. Let's say that you have created a todo list and you are assigning todo items to different users. You added a User Picker Field to... 
 
 ## Content Item Indexing
 
